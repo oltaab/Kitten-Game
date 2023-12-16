@@ -24,6 +24,14 @@
 - Players take turns to move their dolls.
 - Use the GUI to interact with the game and select moves.
 - Monitor the game progress through the GUI updates.
+  
+<img width="795" alt="Screenshot 2023-12-16 at 15 08 45" src="https://github.com/oltaby/BreakThrough/assets/98267176/649ef270-32ca-440a-9769-07f7310c55f2">
+
+<img width="757" alt="Screenshot 2023-12-16 at 15 08 59" src="https://github.com/oltaby/BreakThrough/assets/98267176/06345fd7-6b8a-4e14-bb44-afa198823462">
+<img width="754" alt="Screenshot 2023-12-16 at 15 09 22" src="https://github.com/oltaby/BreakThrough/assets/98267176/24a03d32-5534-458a-88d9-2077b342266a">
+
+<img width="757" alt="Screenshot 2023-12-16 at 15 09 39" src="https://github.com/oltaby/BreakThrough/assets/98267176/155827ac-c358-47e0-bf57-a463fb63d3ca">
+
 
 ## License
 This project is open-source and available under the MIT License.
