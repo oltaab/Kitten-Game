@@ -1,7 +1,7 @@
-# Break-Through Game Project
+# Kitten Game Project
 
 ## Overview
-"Break-Through" is a two-player strategy board game implemented in Java, offering an engaging and dynamic gaming experience. Players move their dolls forward or diagonally on a board to reach the opposite edge or capture opponent dolls.
+The Game is a two-player strategy board game implemented in Java, offering an engaging and dynamic gaming experience. Players move their dolls forward or diagonally on a board to reach the opposite edge or capture opponent dolls.
 
 ### Features
 - Playable on varying board sizes (6x6, 8x8, 10x10).
