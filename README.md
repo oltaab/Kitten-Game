@@ -31,7 +31,3 @@ The Game is a two-player strategy board game implemented in Java, offering an en
 <img width="754" alt="Screenshot 2023-12-16 at 15 09 22" src="https://github.com/oltaby/BreakThrough/assets/98267176/24a03d32-5534-458a-88d9-2077b342266a">
 
 <img width="757" alt="Screenshot 2023-12-16 at 15 09 39" src="https://github.com/oltaby/BreakThrough/assets/98267176/155827ac-c358-47e0-bf57-a463fb63d3ca">
-
-
-## License
-This project is open-source and available under the MIT License.
